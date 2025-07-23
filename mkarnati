@@ -1,8 +1,6 @@
 feature1 branch file
 commit 3
-<<<<<<< HEAD
 hello came to main branch
-=======
 hello added conflict
->>>>>>> conflict
-feature2
+feature 1 added
+
